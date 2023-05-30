@@ -1,7 +1,7 @@
 ### Hi there 👋
 
-- 🔭 I’m still working on my master's degree in Control Engineering, Xi'an Jiaotong university.
-- 📫 How to reach me: My email is leeyao_233@163.com, feel confortable to contact with me😄.
+- 🔭 I’m still working on my Doctor's degree in Control Engineering, Xi'an Jiaotong university.
+- 📫 How to reach me: My email is leeyao_233@163.com, feel comfortable to contact with me😄.
 <!--
 **Dududu233/Dududu233** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
